@@ -17,7 +17,6 @@ Marketing - Create event listings
 
 - [ ] Make an event on Code Youngstown's Meetup page
 - [ ] Make an event on Code Youngstown's Facebook page
-- [ ] Make an event on Evitt.io (powers website calendar)
 
 Marketing - Outreach
 
@@ -25,6 +24,7 @@ Marketing - Outreach
 
 Marketing upkeep - month before, two weeks before, week of, day before, day of
 
+- [ ] Email to Code Youngstown's Mailchimp email list (derived from Slack membership)
 - [ ] Post on Code Youngstown's Twitter a link to the Code Youngstown Meetup event
 - [ ] Comment on the Meetup event (will send a notification to everyone)
 - [ ] Post on the Facebook event (will send a notification to everyone)
